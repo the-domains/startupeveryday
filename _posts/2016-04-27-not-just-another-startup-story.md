@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Not just another startup story.
-datePublished: '2016-04-27T22:11:05.224Z'
-dateModified: '2016-04-27T22:10:32.594Z'
+datePublished: '2016-04-27T22:13:30.759Z'
+dateModified: '2016-04-27T22:11:59.644Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-not-just-another-startup-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-27-not-just-another-startup-story.md
-published: true
+starred: true
 url: not-just-another-startup-story/index.html
 _type: Article
 
