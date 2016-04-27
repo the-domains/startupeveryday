@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[startupeveryday]]></title>
+        <description><![CDATA[startupeveryday]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 22:11:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Not just another startup story.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af70d65-d9c4-4adf-95dc-1e2f6865d69b.jpg">]]></description>
+            <link>undefinednot-just-another-startup-story/index.html</link>
+            <guid isPermaLink="false">630a800f-2c68-495d-b82a-aeb4123fb8f2</guid>
+            <pubDate>Wed, 27 Apr 2016 22:11:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
