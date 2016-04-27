@@ -1,0 +1,28 @@
+name: startupeveryday
+favicon: null
+layout_spectrum: 0.1390016267541796
+typography_spectrum: 0.29895165003836155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11027305340394378
+  lightness: 0.07022378081455827
+  saturation: 0.11402291338890791
+  rhythmicContrast: 0.685828372137621
+purpose: []
